@@ -1,6 +1,8 @@
 /**
  * @author Alyana Soriano, Winona Una Gamba, Cameron Jay Carpo, Julian Mark Labo
  */
+
+//MALAB0 was here
 import java.util.*;
 
 public class PigGame { 
